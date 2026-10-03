@@ -576,15 +576,11 @@ The dashboard provides a visual overview of customer purchasing behavior and bus
 
 ## Dashboard KPI Cards
 
-The dashboard includes key metrics such as:
-
 - Total Customers
 - Average Purchase Amount
 - Average Review Rating
 
 ## Dashboard Slicers
-
-Interactive slicers were used to filter and explore the dashboard.
 
 - Subscription Status
 - Gender
@@ -593,8 +589,6 @@ Interactive slicers were used to filter and explore the dashboard.
 
 ## Dashboard Visualizations
 
-The dashboard includes analysis such as:
-
 - Customer Subscription Status
 - Revenue by Category
 - Sales by Category
@@ -602,8 +596,9 @@ The dashboard includes analysis such as:
 - Sales by Age Group
 - Customer Purchasing Behavior
 
----
+## Dashboard Preview
 
+![Customer Shopping Behavior Dashboard](customer_shopping_behavior_dashboard.png)
 # 11. DAX
 
 DAX (Data Analysis Expressions) was used in Power BI to create measures and calculate key metrics for the dashboard.
